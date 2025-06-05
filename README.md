@@ -53,20 +53,20 @@
 
 ## 🔨 Featured Projects
 
-- 🧪 **Postman API Test Collection**  
-  Automation-ready collection with pre-written test scripts and environment configs.  
+- 📊 **Data QA Automation in Excel**  
+  Sample project using formulas and VBA to validate, clean, and deduplicate data.  
   👉 Coming soon
 
 - 🧰 **JMeter Load Test Suite**  
   Realistic performance testing scenarios for login, search, and checkout APIs.  
   👉 Coming soon
 
-- 📊 **Data QA Automation in Excel**  
-  Sample project using formulas and VBA to validate, clean, and deduplicate data.  
-  👉 Coming soon
-
 - 💻 **Manual Test Cases Library**  
   Includes traceability matrix, test plans, and bug reports for sample applications.  
+  👉 Coming soon
+
+- 🧪 **Postman API Test Collection**  
+  Automation-ready collection with pre-written test scripts and environment configs.  
   👉 Coming soon
 
 ---
